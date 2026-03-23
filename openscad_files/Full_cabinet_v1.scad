@@ -1,3 +1,4 @@
+
 // --- 1. MASTER SPECS (INCHES) ---
 ancho_total = 35.5; 
 alto_total  = 38.75;   
