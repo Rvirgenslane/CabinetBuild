@@ -1,0 +1,39 @@
+No problem. Here is a "Cabinet Blueprint" in plain English that summarizes every specific measurement and construction detail we’ve established. 
+
+You can copy and paste this back to me (or any builder) to pick up exactly where we left off.
+
+---
+
+## **Project: Double-Stacked Shaker Cabinets**
+**Style:** Full-overlay Shaker doors with a Maple face frame and Plywood carcass.
+
+### **1. Overall Dimensions (Per Unit)**
+* **Total Width:** 35 1/2"
+* **Total Height:** 38 3/4"
+* **Total Depth:** 12 1/4" (12.25")
+
+### **2. Carcass Construction (The Box)**
+* **Material:** 3/4" Plywood (Light Brown).
+* **Joints:** Top and Bottom panels sit into the Side panels via **1/8" deep internal rabbets**.
+* **Backer:** 1/4" Plywood panel set at the very rear of the box.
+* **Interior:** One adjustable shelf per unit sitting on **1/4" shelf pins**.
+
+### **3. Face Frame**
+* **Material:** 3/4" Thick Maple (Dark Brown).
+* **Design:** A "border" frame that sits flush on the front edges of the plywood box to hide the plys.
+
+### **4. Shaker Door Specs (Two Doors per Unit)**
+* **Door Size:** 17 9/16" Wide x 38 5/8" High.
+* **Door Frame:** 2 1/4" Wide Maple (3/4" thick).
+* **Door Insert:** 14 1/16" Wide x 35 1/8" High. 
+* **Insert Detail:** 1/4" thick panel with a **1/2" tongue** that nests into the maple frame.
+* **Reveal:** Since the cabinet is 38 3/4" tall and the doors are 38 5/8", there is a **1/16" gap** at the top and bottom.
+
+---
+
+### **Visual Summary**
+* **Carcass:** Light Brown Plywood.
+* **Front:** Dark Brown Maple Frame and Doors.
+* **Configuration:** Two identical units stacked vertically.
+
+**When you’re back, would you like me to generate the Cut List for these exact parts, or should we move on to adding hardware like handles?**
