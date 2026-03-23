@@ -1,39 +1,67 @@
-No problem. Here is a "Cabinet Blueprint" in plain English that summarizes every specific measurement and construction detail we’ve established. 
+You're absolutely right—the doors are the most complex part of the Shaker build, and they deserve their own detailed breakdown to ensure the panels fit perfectly.
 
-You can copy and paste this back to me (or any builder) to pick up exactly where we left off.
-
----
-
-## **Project: Double-Stacked Shaker Cabinets**
-**Style:** Full-overlay Shaker doors with a Maple face frame and Plywood carcass.
-
-### **1. Overall Dimensions (Per Unit)**
-* **Total Width:** 35 1/2"
-* **Total Height:** 38 3/4"
-* **Total Depth:** 12 1/4" (12.25")
-
-### **2. Carcass Construction (The Box)**
-* **Material:** 3/4" Plywood (Light Brown).
-* **Joints:** Top and Bottom panels sit into the Side panels via **1/8" deep internal rabbets**.
-* **Backer:** 1/4" Plywood panel set at the very rear of the box.
-* **Interior:** One adjustable shelf per unit sitting on **1/4" shelf pins**.
-
-### **3. Face Frame**
-* **Material:** 3/4" Thick Maple (Dark Brown).
-* **Design:** A "border" frame that sits flush on the front edges of the plywood box to hide the plys.
-
-### **4. Shaker Door Specs (Two Doors per Unit)**
-* **Door Size:** 17 9/16" Wide x 38 5/8" High.
-* **Door Frame:** 2 1/4" Wide Maple (3/4" thick).
-* **Door Insert:** 14 1/16" Wide x 35 1/8" High. 
-* **Insert Detail:** 1/4" thick panel with a **1/2" tongue** that nests into the maple frame.
-* **Reveal:** Since the cabinet is 38 3/4" tall and the doors are 38 5/8", there is a **1/16" gap** at the top and bottom.
+Here is the refined, human-readable summary for your **two-cabinet stack**.
 
 ---
 
-### **Visual Summary**
-* **Carcass:** Light Brown Plywood.
-* **Front:** Dark Brown Maple Frame and Doors.
-* **Configuration:** Two identical units stacked vertically.
+## 1. The Master Dimensions (The "Box")
+Each of your two cabinets is a mirrored twin.
+* **Outside Width:** 35.5"
+* **Outside Height:** 38.75"
+* **Outside Depth:** 12.25"
+* **The Joinery:** The top and bottom panels are "tucked" into **1/8" deep rabbets** on the side panels. This means the top/bottom boards are **34.25" wide**.
 
-**When you’re back, would you like me to generate the Cut List for these exact parts, or should we move on to adding hardware like handles?**
+---
+
+## 2. The Door Plan (Shaker Style)
+You have **4 doors total** (2 per cabinet). Each door is designed as a "Full Overlay" (covering the face frame).
+
+### The Frame (3/4" Solid Maple)
+* **Stiles (Vertical):** 2 per door. Cut these to exactly **38.625" long**.
+* **Rails (Horizontal):** 2 per door. Cut these to **13.0625" long**. 
+    * *Note: This length accounts for the 2.25" frame width on both sides, plus a 1/4" "tenon" or "tongue" that sticks into the stiles.*
+* **The Groove:** On the inside edges of all these pieces, cut a **1/4" wide x 1/4" deep groove**.
+
+### The Panel (1/4" Plywood)
+* **Panel Size:** **13.5625" x 34.625"**.
+* **The Fit:** The panel slides into the grooves of the frame. 
+* **The Reveal:** Push the panel toward the front so it sits **1/8" recessed** from the face of the maple. This creates the "Shadow Line."
+
+
+
+---
+
+## 3. The "Shopping" Cut List
+*This is the total material for the **entire 77.5" tall stack** (both cabinets).*
+
+### 3/4" Plywood (Carcass)
+| Part | Qty | Dimensions |
+| :--- | :--- | :--- |
+| **Side Panels** | 4 | 38.75" x 12.25" |
+| **Top/Bottoms** | 4 | 34.25" x 12.25" |
+
+### 1/4" Plywood (Backs & Door Inserts)
+| Part | Qty | Dimensions |
+| :--- | :--- | :--- |
+| **Backer Panels** | 2 | 34.75" x 37.25" |
+| **Door Panels** | 4 | 13.5625" x 34.625" |
+
+### 3/4" Solid Maple (Face Frame & Door Frames)
+| Part | Qty | Dimensions |
+| :--- | :--- | :--- |
+| **Door Stiles** | 8 | 38.625" x 2.25" |
+| **Door Rails** | 8 | 13.0625" x 2.25" |
+| **Face Frame Stiles** | 4 | 38.75" x 0.75" |
+| **Face Frame Rails** | 4 | 34" x 0.75" |
+| **Hanging Rails** | 2 | 34" x 3" |
+
+---
+
+## 4. Hardware & Assembly
+* **Hinges:** Use "Full Overlay" concealed (European) hinges. Since your doors are nearly 39" tall, use **3 hinges per door** to prevent warping.
+* **The Stack:** When you put the top cabinet on the bottom one, use 1-1/4" screws to pull the two "floors" together.
+* **The Backer:** Your 1/4" backer sits in that **3/8" deep rabbet** we coded earlier. This leaves a 1/8" gap behind the cabinet so it sits flat against the wall even if your walls aren't perfectly straight.
+
+
+
+**Would you like me to create a "Hardware List" with the specific hinge and screw sizes you'll need to finish this?**
