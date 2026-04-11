@@ -13,3 +13,8 @@ openscad
 brew install --cask freecad
 
 freecad
+
+
+# brew install inkscape
+brew install --cask inkscape
+
